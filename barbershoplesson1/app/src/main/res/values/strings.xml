@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">barber shop - lesson 1</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">Y2cN6NTy0P1MUmndzMECdqhiSAxtkrCc4tzebYWz</string>
+    <string name="back4app_client_key">wYXnt175nXJYQh6ZScrlCm82jkRbMDqpHP7K3WQJ</string>
+</resources>
