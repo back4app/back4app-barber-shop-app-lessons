@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">barber shop - lesson 2</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">Y2cN6NTy0P1MUmndzMECdqhiSAxtkrCc4tzebYWz</string>
+    <string name="back4app_client_key">wYXnt175nXJYQh6ZScrlCm82jkRbMDqpHP7K3WQJ</string>
+
+
+    <!-- Login Activity -->
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="reset_password">Reset your password</string>
+    <string name="please_insert">Please, insert</string>
+    <string name="an_username">an username</string>
+    <string name="and">and</string>
+    <string name="a_password">a password</string>
+    <string name="wait">Please, wait a moment.</string>
+    <string name="logging">Logging in...</string>
+    <string name="sucessful_login">Sucessful Login</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="unsucessful_login">Login failed!</string>
+    <string name="ok">OK</string>
+    <string name="cant_login">It wasn\'t possible to login, please try again.</string>
+    <string name="really_reset_password">If you really want to reset your password, insert the email associated to your account and click on the CONFIRM button.</string>
+    <string name="required_email">Email*</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="not_valid_email">Enter a valid email adress.</string>
+    <string name="reset_instructions_sent">An email was sucessfuly sent with reset instructions.</string>
+    <string name="error_reseting">Something went wrong. Please, try again.</string>
+    <string name="email_empty">Insert your email to reset your password.</string>
+    <string name="email_not_found">We couldn\'t find a user associated to this email. Please, try again.</string>
+</resources>
